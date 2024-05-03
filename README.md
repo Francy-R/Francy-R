@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hola 👋  soy Francy Daniela Rojas Salazar </h1> 
+<h2 align="center">Desarrollador frontend de Medellin, Colombia</h2>
+<!--Intro start-->
 
-<!--
-**Francy-R/Francy-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+🎓  Actualmente estoy aprendiendo desarrollo Frontend con HTML, CSS y Javascript.
 
-Here are some ideas to get you started:
+📫 Contacto: **francydanielarojassalazar@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,mysql,firebase,git,github,postman,vscode line=12" />
+  </a>
+</p>
+<br>
