@@ -3,7 +3,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓  Actualmente estoy aprendiendo desarrollo Frontend con HTML, CSS y Javascript.
+🎓  Actualmente estoy aprendiendo desarrollo Frontend con HTML, CSS, React js y Javascript.
 
 📫 Contacto: **francydanielarojassalazar@gmail.com**
 <!--Intro end-->
@@ -14,7 +14,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,mysql,firebase,git,github,postman,vscode line=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,mysql,github line=12" />
   </a>
 </p>
 <br>
