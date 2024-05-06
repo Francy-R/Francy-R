@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋  soy Francy Daniela Rojas Salazar </h1> 
-<h2 align="center">Desarrollador frontend de Medellin, Colombia</h2>
+<h2 align="center">Desarrolladora frontend de Medellin, Colombia</h2>
 <!--Intro start-->
 
 <p align="left">
